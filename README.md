@@ -1,5 +1,5 @@
 # Introduction_to_Python_Part1
-First workshop in a series of five workshops.
+First workshop in a series of five Python workshops.
 
 ### Introduction to Python
 
